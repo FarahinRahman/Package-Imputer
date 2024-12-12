@@ -1,0 +1,13 @@
+* using log directory 'C:/Users/ASUS/Desktop/PackageImputer/PackageImputer/..Rcheck'
+* using R version 4.4.1 (2024-06-14 ucrt)
+* using platform: x86_64-w64-mingw32
+* R was compiled by
+    gcc.exe (GCC) 13.2.0
+    GNU Fortran (GCC) 13.2.0
+* running under: Windows 11 x64 (build 22631)
+* using session charset: UTF-8
+* checking for file './DESCRIPTION' ... ERROR
+Required fields missing or empty:
+  'Author' 'Maintainer'
+* DONE
+Status: 1 ERROR
